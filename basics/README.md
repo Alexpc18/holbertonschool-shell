@@ -1,1 +1,1 @@
-testing solution for task 
+0.- writing script from path name 
